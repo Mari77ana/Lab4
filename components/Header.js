@@ -126,7 +126,7 @@ const styles = StyleSheet.create({
     height: 180,
     marginTop: 320,
     left: 70,
-    backgroundColor: "lightblue",
+    backgroundColor: "white",
   },
   button: {
     marginTop: -8,
